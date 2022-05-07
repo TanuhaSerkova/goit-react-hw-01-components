@@ -1,5 +1,5 @@
 import styled from 'styled-components';
-import getRandomHexColor from 'RandomColor/RandomColor';
+import getRandomHexColor from 'Utils/RandomColor';
 
 export const Container = styled.section`
     margin: 20px auto 0 auto;
